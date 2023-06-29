@@ -1,5 +1,3 @@
-Soy Alonso Chaves y estoy empezando el curso de Git
+Soy Alonso y estoy empezando el curso de Git
 
-Puede ser atractivo
-
-Ahora hablaremos de su vida
+Manana hablaremos de su vida laboral
