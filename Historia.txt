@@ -1,1 +1,3 @@
 Soy Alonso Chaves y estoy empezando el curso de Git
+
+Puede ser atractivo
